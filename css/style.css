@@ -95,7 +95,7 @@ body {
     border-radius: 60px 60px 0px 60px;
     height: 65vh;
     width: 230px;
-    background-image: url('/images/about-img1.png');
+    background-image: url('../images/about-img1.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -107,7 +107,7 @@ body {
     border-radius: 60px 60px 60px 0px;
     height: 45vh;
     width: 180px;
-    background-image: url('/images/about-img2.png');
+    background-image: url('../images/about-img2.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: fill;
