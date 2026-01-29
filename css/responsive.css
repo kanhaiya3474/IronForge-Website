@@ -1,0 +1,25 @@
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .banner-slider {
+        height: 30vh;
+    }
+
+    .banner {
+        height: 90%;
+    }
+
+    .welcom-img {
+        display: none;
+    }
+
+    .faq-title {
+        text-align: center;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1280px !important;
+    }
+}
