@@ -110,7 +110,7 @@ body {
     background-image: url('../images/about-img2.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: fill;
+    background-size: cover;
 }
 
 .ex-counter {
@@ -121,7 +121,7 @@ body {
     background-color: #0d6efd;
     border-radius: 40px 40px 0px 40px;
     height: 100px;
-    width: 180;
+    width: 180px;
 }
 
 .about-text {
@@ -181,19 +181,19 @@ body {
 }
 
 .service-img-1 {
-    background-image: url('/images/services-img1.jpg');
+    background-image: url('../images/services-img1.jpg');
 }
 
 .service-img-2 {
-    background-image: url('/images/services-img2.jpg');
+    background-image: url('../images/services-img2.jpg');
 }
 
 .service-img-3 {
-    background-image: url('/images/services-img3.jpg');
+    background-image: url('../images/services-img3.jpg');
 }
 
 .service-img-4 {
-    background-image: url('/images/services-img4.jpg');
+    background-image: url('../images/services-img4.jpg');
 }
 
 .accordion-body p {
@@ -210,11 +210,11 @@ body {
 }
 
 .custom-accordion .accordion-button::after {
-    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230a2558'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>");
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230a2558'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.[...]
 }
 
 .custom-accordion .accordion-button:not(.collapsed)::after {
-    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>");
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.[...]
 }
 
 
@@ -431,7 +431,7 @@ body {
     padding-left: 30px;
     margin-bottom: 12px;
     font-size: 1.3rem;
-    background-image: url('/images/li-icon.png');
+    background-image: url('../images/li-icon.png');
     background-repeat: no-repeat;
 }
 
@@ -576,7 +576,7 @@ body {
 /* Footer Css */
 footer {
     /* background-color: #0b2c52; */
-    background-image: url('/images/footer-bg.png');
+    background-image: url('../images/footer-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
